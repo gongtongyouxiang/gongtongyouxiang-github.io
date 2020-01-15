@@ -1,0 +1,6 @@
+body,h1,h2,h3,h4,h5,p,ul,ol,dl,dd,fieldset,textarea{margin:0}
+.account_nickname{color:#576b95}
+.account_nickname_inner{font-weight:400}
+.account_desc{color:rgba(0,0,0,0.3)}
+@media screen
+{.rich_media_area_primary_inner,.rich_media_area_extra_inner{max-width:677px;margin-left:auto;margin-right:auto}}
